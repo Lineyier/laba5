@@ -1,0 +1,10 @@
+C:/Users/ula-a/OneDrive/Рабочий стол/LABA_5/build/CMakeFiles/physics.dir
+C:/Users/ula-a/OneDrive/Рабочий стол/LABA_5/build/CMakeFiles/package.dir
+C:/Users/ula-a/OneDrive/Рабочий стол/LABA_5/build/CMakeFiles/package_source.dir
+C:/Users/ula-a/OneDrive/Рабочий стол/LABA_5/build/CMakeFiles/test.dir
+C:/Users/ula-a/OneDrive/Рабочий стол/LABA_5/build/CMakeFiles/edit_cache.dir
+C:/Users/ula-a/OneDrive/Рабочий стол/LABA_5/build/CMakeFiles/rebuild_cache.dir
+C:/Users/ula-a/OneDrive/Рабочий стол/LABA_5/build/CMakeFiles/list_install_components.dir
+C:/Users/ula-a/OneDrive/Рабочий стол/LABA_5/build/CMakeFiles/install.dir
+C:/Users/ula-a/OneDrive/Рабочий стол/LABA_5/build/CMakeFiles/install/local.dir
+C:/Users/ula-a/OneDrive/Рабочий стол/LABA_5/build/CMakeFiles/install/strip.dir
